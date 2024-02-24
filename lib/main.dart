@@ -13,7 +13,7 @@ void main() {
               fontWeight: FontWeight.w300),
           title: const Center(child: Text('Rolle my Dice App')),
         ),
-        backgroundColor: Colors.blue.shade400,
+        backgroundColor: Colors.blue.shade300,
         body: const Center(
           child: Text('Hello My world!'),
         ),
